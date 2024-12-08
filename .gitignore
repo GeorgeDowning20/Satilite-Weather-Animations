@@ -1,0 +1,10 @@
+# Ignore VS Code files
+.vscode/
+
+# Ignore the eumetsat_images folder
+eumetsat_images/
+
+# Ignore the .env file
+*.mp4
+
+.DS_Store
